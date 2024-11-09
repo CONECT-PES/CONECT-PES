@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 Welcome to CONECT Lab!
+## 👋 Welcome to CONECT!
 
 CONECT is centre of excellence under PES University research foundation. This centre is dedicated to research and other activities in cutting-edge fields related to Networking and Communication domain. We encourage students to implement their acquired knowledge for practical application and nurture their creative minds for research and innovation.
 
