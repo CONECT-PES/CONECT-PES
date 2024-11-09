@@ -1,83 +1,56 @@
-<!-- Center Header with Logo -->
 <div align="center">
-  
-![CONECT Lab Logo]( (https://github.com/user-attachments/assets/ebe32d09-e705-403e-9b2e-1fc1ac19c1a5) ) 
-# Center Of Networking and Evolving Communication Technologies Lab
 
-*Advancing the Future of Network Technologies at PES University Electronic City Campus*
+![CONECT Lab Banner](![logo 3](https://github.com/user-attachments/assets/df7957b9-ce4e-44a3-815d-81ba7476f67a)
+)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-CONECT_Lab-brightgreen.svg)](https://pesitsouth.pes.edu)
+# CONECT Lab - Center Of Networking and Evolving Communication Technologies
+*PES University Electronic City Campus*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](Your-LinkedIn-URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=safari)](https://pesitsouth.pes.edu)
+
 </div>
 
----
+## 👋 Welcome to CONECT Lab!
 
-## About CONECT Lab
+Researcher at the Center Of Networking and Evolving Communication Technologies (CONECT) Lab, working on advancing networking technologies and communication systems.
 
-Welcome to the Center Of Networking and Evolving Communication Technologies (CONECT) Lab at PES University Electronic City Campus. Our lab is dedicated to pioneering research and development in the field of networking and modern communication technologies.
-
-### 🎯 Our Mission
-
-To foster innovation and excellence in networking technologies through cutting-edge research, experiential learning, and industry collaboration.
-
-### 🔬 Research Areas
+## 🔬 Research Areas
 
 - Network Security and Cybersecurity
-- Internet of Things (IoT) and Embedded Systems
+- IoT and Embedded Systems
 - 5G/6G Communication Technologies
 - Cloud Computing and Distributed Systems
-- Network Protocol Design and Optimization
-- Artificial Intelligence in Networking
 
-### 🎓 Educational Focus
+## 💻 Current Projects
 
-- Hands-on experiential learning
-- Research opportunities for students
-- Industry-relevant projects
-- Technical workshops and seminars
-- Collaborative research initiatives
+- 🌐 Developing next-gen network protocols
+- 🔒 Enhancing cybersecurity frameworks
+- 📡 Advancing wireless communication systems
+- 🤖 Implementing AI in network optimization
 
-### 💡 Key Features
+## 🎓 Academic Background
 
-- State-of-the-art networking equipment
-- Dedicated research spaces
-- Industry partnership programs
-- Regular technical symposiums
-- Student mentorship opportunities
+- Currently pursuing research at PES University
+- Specializing in Network Technologies
+- Focus on innovative communication solutions
 
-## Getting Involved
+## 📊 GitHub Stats
 
-We welcome collaboration from:
-- Students passionate about networking
-- Research scholars
-- Industry partners
-- Academic institutions
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
-## Contact Us
+## 🤝 Let's Connect!
 
-- 📍 **Location**: PES University Electronic City Campus, Bangalore
-- 📧 **Email**: [conect.lab@pes.edu](mailto:conect.lab@pes.edu)
-- 🌐 **Website**: [https://pesitsouth.pes.edu](https://pesitsouth.pes.edu)
+- 📧 Email: your.email@example.com
+- 🌐 Lab Website: [CONECT Lab](https://pesitsouth.pes.edu)
+- 💼 LinkedIn: [Your Name](Your-LinkedIn-URL)
 
 ---
 
 <div align="center">
 
-*Connect with us to explore the future of networking technologies*
+*"Advancing the future of network technologies through research and innovation"*
 
 </div>
-
-<!--
-**CONECT-PES/CONECT-PES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
