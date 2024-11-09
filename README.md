@@ -40,10 +40,6 @@ Our bigger plan is to make the centre as reputed technological and innovation ce
 - Specializing in Network Technologies
 - Focus on innovative communication solutions
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
