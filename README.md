@@ -1,6 +1,6 @@
 <div align="center">
 
-![CONECT Lab Banner](![logo 3](https://github.com/user-attachments/assets/df7957b9-ce4e-44a3-815d-81ba7476f67a)
+(![logo 3](https://github.com/user-attachments/assets/df7957b9-ce4e-44a3-815d-81ba7476f67a)
 )
 
 # CONECT Lab - Center Of Networking and Evolving Communication Technologies
