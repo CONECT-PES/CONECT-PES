@@ -29,23 +29,18 @@ Our bigger plan is to make the centre as reputed technological and innovation ce
 
 ## 💻 Current Projects
 
-- 🌐 Developing next-gen network protocols
-- 🔒 Enhancing cybersecurity frameworks
+- 🌐 Publicly accessible fail secure locker
+- 🔒 SDN controller for LEO satellites with a P4 Switch
 - 📡 Advancing wireless communication systems
 - 🤖 Implementing AI in network optimization
 
-## 🎓 Academic Background
+## 🎓 Past Projects
 
-- Currently pursuing research at PES University
-- Specializing in Network Technologies
+- Spectrum hopper using Software Defined Radios
+- Lidar technology using arduino
 - Focus on innovative communication solutions
 
 
-## 🤝 Let's Connect!
-
-- 📧 Email: your.email@example.com
-- 🌐 Lab Website: [CONECT Lab](https://pesitsouth.pes.edu)
-- 💼 LinkedIn: [Your Name](Your-LinkedIn-URL)
 
 ---
 
