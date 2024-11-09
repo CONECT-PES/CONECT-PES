@@ -1,7 +1,7 @@
 <!-- Center Header with Logo -->
 <div align="center">
   
-![CONECT Lab Logo](![logo](https://github.com/user-attachments/assets/8631f073-808d-4b0b-a7f3-0c226418a138))
+![CONECT Lab Logo]( ![logo](https://github.com/user-attachments/assets/8631f073-808d-4b0b-a7f3-0c226418a138 ) 
 # Center Of Networking and Evolving Communication Technologies Lab
 
 *Advancing the Future of Network Technologies at PES University Electronic City Campus*
