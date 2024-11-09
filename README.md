@@ -14,7 +14,11 @@
 
 ## 👋 Welcome to CONECT Lab!
 
-Researcher at the Center Of Networking and Evolving Communication Technologies (CONECT) Lab, working on advancing networking technologies and communication systems.
+CONECT is centre of excellence under PES University research foundation. This centre is dedicated to research and other activities in cutting-edge fields related to Networking and Communication domain. We encourage students to implement their acquired knowledge for practical application and nurture their creative minds for research and innovation.
+
+We also provide technical knowledge and guidance to students to enhance their knowledge and get skill to use them. Currently this centre is open only to any branch student of PES University. We have plan and wish to make it open for students to other universities also.
+
+Our bigger plan is to make the centre as reputed technological and innovation centre across India. We are supporting and encouraging interdisciplinary collaboration, creativity, and a commitment to excellence. We are in touch with industry and other academia. We are working on problems provided by others independently and collaborative way.
 
 ## 🔬 Research Areas
 
