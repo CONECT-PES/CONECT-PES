@@ -6,8 +6,8 @@
 # Center Of Networking and Evolving Communication Technologies
 *PES University Electronic City Campus*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](Your-LinkedIn-URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/conect-pes-54a525334/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.conect@pesu.pes.edu)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=safari)](https://pesitsouth.pes.edu)
 
 </div>
