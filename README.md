@@ -29,9 +29,9 @@ Our bigger plan is to make the centre as reputed technological and innovation ce
 
 ## 💻 Current Projects
 
-- 🌐 Publicly accessible fail secure locker
-- 🔒 SDN controller for LEO satellites with a P4 Switch
-- 📡 Advancing wireless communication systems
+- 🌐 Publicly accessible fail secure locker 
+- 🔒 Raspberry Pi Hardware Firewall: Dynamic IP and bandwidth management
+- 📡 SDN controller for LEO satellites with a P4 Switch
 - 🤖 Implementing AI in network optimization
 
 ## 🎓 Past Projects
